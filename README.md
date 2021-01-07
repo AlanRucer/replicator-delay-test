@@ -1,0 +1,1 @@
+用于测试redis-replicator delay
